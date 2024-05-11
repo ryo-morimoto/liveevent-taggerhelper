@@ -1,6 +1,6 @@
 {
   "name": "liveevent-taggerhelper",
-  "displayName": "LiveEvent TaggerHelper",
+  "displayName": "テックイベント ライブヘルパー",
   "version": "0.0.1",
   "description": "イベントに参加しているときにTwitter (X) で実況をするときイベントのハッシュタグが複数あった場合、付けたり外したりがめんどくさくないですか？そこを解決するためのツールです。",
   "author": "Ryosuke Morimoto",
@@ -26,10 +26,6 @@
   "manifest": {
     "host_permissions": [
       "https://*/*"
-    ],
-    "icons": {
-      "48": "public/icon-48.png",
-      "128": "public/icon-128.png"
-    }
+    ]
   }
 }
